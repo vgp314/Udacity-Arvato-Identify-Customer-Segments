@@ -5,12 +5,12 @@
 
 
 ## Table of Contents
-1. Problem Statement and Project Motivation
-2. Instalation
-3. Files
-4. Results and Conclusions
-5. Licenses and Acknowledgements
-6. Project Motivation
+1. Problem Statement
+2. Project Motivation
+3. Instalation
+4. Files
+5. Results and Conclusions
+6. Licenses and Acknowledgements
 
 ## Problem Statement
 - Consider a company's marketing campaign (Arvato Financial Services), in which we
