@@ -1,0 +1,10 @@
+model;Kaggle Score
+Random Forest – DownSample;0.75527
+Logistic Regression – DownSample;0.72105
+XgBoost - DownSample;0.79744
+Logistic Regression – BaseLine;0.67288
+Random Forest – BaseLine;0.59498
+XgBoost – BaseLine;0.79204
+XgBoost;0.79593
+Random Forest;0.75117
+Logistic Regression ;0.71897
