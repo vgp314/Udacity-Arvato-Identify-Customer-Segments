@@ -27,7 +27,7 @@ marketing campaign.<br />
 submit the result on the kaggle platform.<br />
 
 ## Project Motivation
-- The project is a problem for a company, with real data and with several possible approaches. It is a rich set of data and an interesting problem to be solved. Submitting work on Kaggle is a way to compare the quality of our algorithm with that of other students. So I chose to do this specific job that motivated me to learn even more.
+- The project is a problem for a company, with real data and with several possible approaches. It is a rich set of data and an interesting problem to be solved. Submitting work on Kaggle is a way to compare the quality of our algorithm with of other students algorithms. That's why I chose to do this specific project that motivated me to learn even more.
 
 
 
